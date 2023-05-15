@@ -35,7 +35,7 @@ input[type="text"] {
     border: 1px solid rgb(199, 198, 198);
     border-radius: 10px;
     margin: 10px auto;
-    padding: 3px 150px 6px 5px;
+    padding: 3px 50px 6px 5px;
 }
 
 .content {
@@ -47,7 +47,7 @@ input[type="text"] {
     text-align: center;
     margin-top: 100px;
     padding-top: 5px;
-    background-color: #f1f1f1;
+    background-color: #adb9c0;
 }
 
 
@@ -55,8 +55,8 @@ input[type="password"] {
     font-family: "Mitr", sans-serif;
     border: 1px solid rgb(199, 198, 198);
     border-radius: 10px;
-    margin: 0 auto;
-    padding: 3px 150px 6px 5px;
+    margin: 10px auto;
+    padding: 3px 50px 6px 5px;
 }
 
 input[type="submit"] {
